@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Are you up for a challenge? :muscle: Let's play [Mastermind](http://matytermind.herokuapp.com/)! :sunglasses:
+
+
+📫 You can find my contact info at [budavaram.github.io](https://budavaram.github.io).
+
+Have a nice day! :sunny:
+
 <!--
 **budavariam/budavariam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
