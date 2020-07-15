@@ -3,7 +3,7 @@
 Are you up for a challenge? :muscle: Let's play [Mastermind](http://matytermind.herokuapp.com/)! :sunglasses:
 
 
-📫 You can find my contact info at [budavaram.github.io](https://budavaram.github.io).
+📫 You can find my contact info at [budavariam.github.io](https://budavariam.github.io).
 
 Have a nice day! :sunny:
 
