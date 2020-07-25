@@ -3,7 +3,7 @@
 Are you up for a challenge? :muscle: Let's play [Mastermind](http://matytermind.herokuapp.com/)! :sunglasses:
 
 
-📫 You can find my contact info at [budavariam.github.io](https://budavariam.github.io).
+🔭 Feel free to check out my blog at [budavariam.github.io](https://budavariam.github.io).
 
 Have a nice day! :sunny:
 
@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Twitter Badge](https://img.shields.io/badge/-@budavari-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/budavari)](https://twitter.com/budavari)
+[![Linkedin Badge](https://img.shields.io/badge/-budavariam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/budavariam/)](https://www.linkedin.com/in/budavariam/)
