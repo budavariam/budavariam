@@ -1,37 +1,37 @@
-name: RunCode
+# name: RunCode
 
-on:
-  issues:
-    types: [opened]
+# on:
+#   issues:
+#     types: [opened]
 
-jobs:
-  move:
+# jobs:
+#   move:
 
-    runs-on: ubuntu-latest
-    if: startsWith(github.event.issue.title, 'run|')
-    strategy:
-      matrix:
-        python-version: [3.8]
+#     runs-on: ubuntu-latest
+#     if: startsWith(github.event.issue.title, 'run|')
+#     strategy:
+#       matrix:
+#         python-version: [3.8]
 
-    steps:
-    - uses: actions/checkout@v2
-    - name: Set env vars
-      run: |
-        echo ::set-env name=REPOSITORY::${{ github.repository }}
-        echo ::set-env name=EVENT_ISSUE_NUMBER::${{ github.event.issue.number }}
-        echo ::set-env name=EVENT_USER_LOGIN::${{ github.event.issue.user.login }}
-    - name: Set up Python ${{ matrix.python-version }}
-      uses: actions/setup-python@v2
-      with:
-        python-version: ${{ matrix.python-version }}
-    # - name: Install dependencies
-    #   run: |
-    #     python -m pip install --upgrade pip
-    #     if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-    - name: Run code
-      run: |
-        python -c 'print("test, ")'
-        echo "1 $EVENT_ISSUE_NUMBER"
-        echo "2 $REPOSITORY"
-        echo "3 ${{ github.event.issue.title }}"
-        echo "4 $EVENT_USER_LOGIN'"
+#     steps:
+#     - uses: actions/checkout@v2
+#     - name: Set env vars
+#       run: |
+#         echo ::set-env name=REPOSITORY::${{ github.repository }}
+#         echo ::set-env name=EVENT_ISSUE_NUMBER::${{ github.event.issue.number }}
+#         echo ::set-env name=EVENT_USER_LOGIN::${{ github.event.issue.user.login }}
+#     - name: Set up Python ${{ matrix.python-version }}
+#       uses: actions/setup-python@v2
+#       with:
+#         python-version: ${{ matrix.python-version }}
+#     # - name: Install dependencies
+#     #   run: |
+#     #     python -m pip install --upgrade pip
+#     #     if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+#     - name: Run code
+#       run: |
+#         python -c 'print("test, ")'
+#         echo "1 $EVENT_ISSUE_NUMBER"
+#         echo "2 $REPOSITORY"
+#         echo "3 ${{ github.event.issue.title }}"
+#         echo "4 $EVENT_USER_LOGIN'"
