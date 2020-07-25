@@ -8,7 +8,7 @@ jobs:
   move:
 
     runs-on: ubuntu-latest
-    if: startsWith(github.event.issue.title, 'step|')
+    if: startsWith(github.event.issue.title, 'run|')
     strategy:
       matrix:
         python-version: [3.8]
@@ -31,7 +31,7 @@ jobs:
     - name: Run code
       run: |
         python -c 'print("test, ")'
-        echo a $EVENT_ISSUE_NUMBER
-        echo b $REPOSITORY
-        echo c ${{ github.event.issue.title }}
-        echo d 'EVENT_USER_LOGIN'
+        echo "1 $EVENT_ISSUE_NUMBER"
+        echo "2 $REPOSITORY"
+        echo "3 ${{ github.event.issue.title }}"
+        echo "4 $EVENT_USER_LOGIN'"
