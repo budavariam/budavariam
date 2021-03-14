@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 
 [![Twitter Badge](https://img.shields.io/badge/-@budavari-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/budavari)](https://twitter.com/budavari)
 [![Linkedin Badge](https://img.shields.io/badge/-budavariam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/budavariam/)](https://www.linkedin.com/in/budavariam/)
+[![ko-fi Badge](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V634HEX)
