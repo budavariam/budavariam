@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 [![Twitter Badge](https://img.shields.io/badge/-@budavari-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/budavari)](https://twitter.com/budavari)
 [![Linkedin Badge](https://img.shields.io/badge/-budavariam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/budavariam/)](https://www.linkedin.com/in/budavariam/)
-[![Linkedin Badge](https://img.shields.io/badge/-budavariam-green?style=flat-square&logo=Buy%20me%20a%20coffee&logoColor=white&link=https://ko-fi.com/V7V634HEX)](https://ko-fi.com/V7V634HEX)
+[![Linkedin Badge](https://img.shields.io/badge/-Buy%20me%20a%20coffee-green?style=flat-square&logo=ko-fi&logoColor=white&link=https://ko-fi.com/V7V634HEX)](https://ko-fi.com/V7V634HEX)
