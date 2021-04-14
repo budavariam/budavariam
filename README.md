@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Are you up for a challenge? :muscle: Let's play [Mastermind](http://matytermind.herokuapp.com/)! :sunglasses:
+Are you up for a challenge? :muscle: Let's play [Mastermind](https://matytermind.herokuapp.com/)! :sunglasses:
 
 
 🔭 Feel free to check out my blog at [budavariam.github.io](https://budavariam.github.io).
